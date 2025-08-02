@@ -2,8 +2,16 @@
 
 This guide will walk you through unlocking the bootloader, flashing a custom recovery, and installing LineageOS 20 (Android 13) on the Redmi Note 7 (lavender).
 
-![Celular-Xiaomi-Redmi-Note-7-2462637863](https://github.com/user-attachments/assets/686905be-d96d-4d1e-8cfe-cde711610620)
+![Redmi-Note-7](https://github.com/user-attachments/assets/686905be-d96d-4d1e-8cfe-cde711610620)
 
+
+---
+## 🙋‍♂️ Personal Note
+
+I’ve personally followed this exact process on my own Redmi Note 7, and also flashed LineageOS successfully on devices like POCO X3 and Mi Note 4. This method is tested and reliable—just follow each step carefully!
+
+![00](https://github.com/user-attachments/assets/7425cac4-53b9-44b3-a8a3-6f89dc15455d)
+---
 
 > ⚠️ DISCLAIMER: This process may void your warranty and may brick your device if done improperly. Proceed at your own risk.
 
@@ -127,3 +135,5 @@ adb sideload lineage-20-*.zip
 * [OpenGApps](https://opengapps.org/)
 * [ADB/Fastboot Tools](https://developer.android.com/studio/releases/platform-tools)
 * [Referance](https://github.com/0xsharkboy/Lineage_OTA/releases)
+
+
