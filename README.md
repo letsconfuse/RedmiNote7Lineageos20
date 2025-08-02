@@ -84,6 +84,12 @@ fastboot flash recovery recovery.img
 fastboot reboot recovery
 ```
 
+
+### ✅ Why LineageOS 20?
+
+> ℹ️ **Note:** I have tested newer custom ROM versions, but this LineageOS 20 (Android 13) build is the most stable and usable on the Redmi Note 7 (lavender). While Android 14 or other unofficial builds may be available, the hardware limitations of this device cause noticeable lag and poor performance on those. This build strikes the best balance between performance and modern features.
+
+
 ---
 
 ## 📲 Install LineageOS 20
@@ -120,3 +126,4 @@ adb sideload lineage-20-*.zip
 * [Mi Unlock Tool](https://en.miui.com/unlock/)
 * [OpenGApps](https://opengapps.org/)
 * [ADB/Fastboot Tools](https://developer.android.com/studio/releases/platform-tools)
+* [Referance](https://github.com/0xsharkboy/Lineage_OTA/releases)
