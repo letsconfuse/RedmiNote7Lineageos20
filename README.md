@@ -2,6 +2,9 @@
 
 This guide will walk you through unlocking the bootloader, flashing a custom recovery, and installing LineageOS 20 (Android 13) on the Redmi Note 7 (lavender).
 
+![Celular-Xiaomi-Redmi-Note-7-2462637863](https://github.com/user-attachments/assets/686905be-d96d-4d1e-8cfe-cde711610620)
+
+
 > ⚠️ DISCLAIMER: This process may void your warranty and may brick your device if done improperly. Proceed at your own risk.
 
 ## 🔧 Steps Overview
